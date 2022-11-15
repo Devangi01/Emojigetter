@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background-color: #6086b1;
+}
+#heading {
+  color: #0e0d0b;
+}
+input {
+  border: 2px solid #002b2a;
+  border-radius: 5px;
+}
+#meaning {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #002b2a;
+}
+/* #101D40 */
