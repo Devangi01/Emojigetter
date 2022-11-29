@@ -6,5 +6,4 @@ This app is built with Reactjs. It will tell you the meaning of the emoji on cli
   
   css
 
-#[Live]
-(https://inside-outt.netlify.app/)
+# Live (https://inside-outt.netlify.app/)
